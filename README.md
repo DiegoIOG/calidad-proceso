@@ -16,7 +16,7 @@ El flujo del proyecto:
 4. **Exportación a Excel** con 2 hojas listas para Power BI:  
    - datos_limpios → datos limpios por registro  
    - kpis_calidad → resumen de métricas de calidad  
-5 **Dashboard Power Bi** :
+5. **Dashboard Power Bi** :
    - Filtros  Fecha , Producto, Maquina ,Turno y Total de registros 
    - Grafica de lineas comparacion por defecto
    - Grafica Barra de pastel por piezas OK Y NO OK
