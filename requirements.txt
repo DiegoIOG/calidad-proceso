@@ -1,0 +1,6 @@
+# Requirements
+-pandas
+-faker
+-openpyxl
+-datetime
+-os
