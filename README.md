@@ -30,3 +30,6 @@ El flujo del proyecto:
 - faker → generación de datos simulados  
 - openpyxl → exportación a Excel  
 - datetime → manejo de fechas  
+
+## Dashboard
+<img width="1317" height="727" alt="image" src="https://github.com/user-attachments/assets/fbeeb47e-0f4a-4c13-8c75-275155e3e8b3" />
